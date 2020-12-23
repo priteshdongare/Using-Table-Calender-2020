@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+.heading{
+    background-color: blue;
+    color: coral;
+}
+.back{
+    background-image: url("../img/Calen.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
